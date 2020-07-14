@@ -3,7 +3,7 @@ Sample for showing Tencent Bugly features on Xamarin.Forms.
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/kcvsUB9EowOZdjdY2zlExw
 
 QQ Group:313308215
 
